@@ -1,0 +1,8 @@
+*{
+  margin: var(--margin);
+  padding: var(--padding);
+}
+
+body{
+  background: #111111;
+}
